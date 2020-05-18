@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="544bef72-990c-11ea-8568-8df113ebd62f">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="544bfcda-990c-11ea-8568-8df113ebd62f" type="resource" guid="c95edad5-7e22-11e1-9553-6fa0c1dd5be4" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="544bfcdb-990c-11ea-8568-8df113ebd62f" type="literal">TablelShape</object>
+  </predicate>
+  <predicate guid="7499ffb3-7e23-11e1-9553-6fa0c1dd5be4">
+    <object statement-guid="544bfcdc-990c-11ea-8568-8df113ebd62f" type="resource" guid="544bef3a-990c-11ea-8568-8df113ebd62f" />
+  </predicate>
+</resource>
+

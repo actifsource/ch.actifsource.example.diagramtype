@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="8975818e-990f-11ea-8568-8df113ebd62f">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="897581a2-990f-11ea-8568-8df113ebd62f" type="resource" guid="c95edad5-7e22-11e1-9553-6fa0c1dd5be4" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="897581a3-990f-11ea-8568-8df113ebd62f" type="literal">ComputerShape</object>
+  </predicate>
+  <predicate guid="1b9bcaeb-1505-11e1-a065-5950a7307e80">
+    <object statement-guid="418d3100-9910-11ea-8568-8df113ebd62f" type="resource" guid="b45c0fb7-2bf9-11e3-b91d-31693b7e682b" />
+  </predicate>
+  <predicate guid="7499ffb3-7e23-11e1-9553-6fa0c1dd5be4">
+    <object statement-guid="897581a4-990f-11ea-8568-8df113ebd62f" type="resource" guid="8975818a-990f-11ea-8568-8df113ebd62f" />
+  </predicate>
+</resource>
+
