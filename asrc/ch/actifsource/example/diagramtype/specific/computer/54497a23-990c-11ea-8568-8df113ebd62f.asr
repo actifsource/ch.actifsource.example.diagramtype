@@ -14,6 +14,10 @@
     <resource statement-guid="3bc92ac2-990f-11ea-8568-8df113ebd62f" type="resource" guid="3bc92abe-990f-11ea-8568-8df113ebd62f" />
     <resource statement-guid="54b37ed0-990f-11ea-8568-8df113ebd62f" type="resource" guid="54b37ecc-990f-11ea-8568-8df113ebd62f" />
   </owns>
+  <owns predicate="6e29ed3f-793d-11ec-a0fd-55fdfbe7b456">
+    <resource statement-guid="de3c91f0-793d-11ec-a0fd-55fdfbe7b456" type="resource" guid="de3c6adc-793d-11ec-a0fd-55fdfbe7b456" />
+    <resource statement-guid="48760fbf-793f-11ec-a0fd-55fdfbe7b456" type="resource" guid="4875c19a-793f-11ec-a0fd-55fdfbe7b456" />
+  </owns>
   <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
     <object statement-guid="544bf001-990c-11ea-8568-8df113ebd62f" type="resource" guid="544bef1f-990c-11ea-8568-8df113ebd62f" />
   </predicate>
@@ -106,6 +110,44 @@
         </predicate>
         <predicate guid="b6599f51-990e-11ea-8568-8df113ebd62f">
           <object statement-guid="56adc7af-990f-11ea-8568-8df113ebd62f" type="literal">200</object>
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="6e29ed3f-793d-11ec-a0fd-55fdfbe7b456">
+    <object statement-guid="de3c91f0-793d-11ec-a0fd-55fdfbe7b456">
+      <resource guid="de3c6adc-793d-11ec-a0fd-55fdfbe7b456">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="de3c6ade-793d-11ec-a0fd-55fdfbe7b456" type="resource" guid="78ca4308-793d-11ec-a0fd-55fdfbe7b456" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="de3c91ef-793d-11ec-a0fd-55fdfbe7b456" type="literal">CsvConfig1</object>
+        </predicate>
+        <predicate guid="80ff75d8-e648-11da-90a0-f358fdc0051b">
+          <object statement-guid="4a772c6a-793e-11ec-a0fd-55fdfbe7b456" type="literal">config1,config2,config3
+config4,config5,config6
+</object>
+        </predicate>
+        <predicate guid="f0ab3c99-793e-11ec-a0fd-55fdfbe7b456">
+          <object statement-guid="fb280555-793e-11ec-a0fd-55fdfbe7b456" type="literal">true</object>
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="48760fbf-793f-11ec-a0fd-55fdfbe7b456">
+      <resource guid="4875c19a-793f-11ec-a0fd-55fdfbe7b456">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="4875c19b-793f-11ec-a0fd-55fdfbe7b456" type="resource" guid="78ca4308-793d-11ec-a0fd-55fdfbe7b456" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="4875c19c-793f-11ec-a0fd-55fdfbe7b456" type="literal">CsvConfig2</object>
+        </predicate>
+        <predicate guid="80ff75d8-e648-11da-90a0-f358fdc0051b">
+          <object statement-guid="4875c19d-793f-11ec-a0fd-55fdfbe7b456" type="literal">config1,config2,config3
+config4,config5,config6
+</object>
+        </predicate>
+        <predicate guid="f0ab3c99-793e-11ec-a0fd-55fdfbe7b456">
+          <object statement-guid="4875c19e-793f-11ec-a0fd-55fdfbe7b456" type="literal">false</object>
         </predicate>
       </resource>
     </object>

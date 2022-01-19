@@ -16,8 +16,10 @@ public interface ISystem extends ch.actifsource.core.javamodel.INamedResource {
   
   public java.util.List<? extends ch.actifsource.example.diagramtype.generic.computer.javamodel.ITable> selectTable();
   
+  public java.util.List<? extends ch.actifsource.example.diagramtype.generic.computer.javamodel.IConfig> selectConfig();
+  
   public java.util.List<? extends ch.actifsource.diagram.javamodel.IDomainDiagram> selectDiagram();
   
 }
 
-/* Actifsource ID=[3ca9f967-db37-11de-82b8-17be2e034a3b,544bef1f-990c-11ea-8568-8df113ebd62f,OTAllo0Mn+0XDjriU4EMyk4zo1M=] */
+/* Actifsource ID=[3ca9f967-db37-11de-82b8-17be2e034a3b,544bef1f-990c-11ea-8568-8df113ebd62f,jnSdlgkN2VjqmZ3GmynttYcof20=] */

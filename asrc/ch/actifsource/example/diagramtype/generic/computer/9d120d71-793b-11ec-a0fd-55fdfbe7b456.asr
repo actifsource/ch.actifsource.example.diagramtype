@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="9d120d71-793b-11ec-a0fd-55fdfbe7b456">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="9d120d73-793b-11ec-a0fd-55fdfbe7b456" type="resource" guid="d45a2b2b-3099-11ea-8c92-69fa7f5db471" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="9d1282a4-793b-11ec-a0fd-55fdfbe7b456" type="literal">DiagramTypeConfig</object>
+  </predicate>
+  <predicate guid="e8032137-3099-11ea-8c92-69fa7f5db471">
+    <object statement-guid="a5eb10ef-793b-11ec-a0fd-55fdfbe7b456" type="aggregate" guid="a5eac2cb-793b-11ec-a0fd-55fdfbe7b456" />
+    <object statement-guid="9fc4aa85-793b-11ec-a0fd-55fdfbe7b456" type="aggregate" guid="544bee3e-990c-11ea-8568-8df113ebd62f" />
+  </predicate>
+</resource>
+

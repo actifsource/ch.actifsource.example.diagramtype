@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="840308cb-793d-11ec-a0fd-55fdfbe7b456">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="840308e0-793d-11ec-a0fd-55fdfbe7b456" type="resource" guid="c95edad5-7e22-11e1-9553-6fa0c1dd5be4" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="840308e1-793d-11ec-a0fd-55fdfbe7b456" type="literal">ConfigShape</object>
+  </predicate>
+  <predicate guid="1b9bcaeb-1505-11e1-a065-5950a7307e80">
+    <object statement-guid="840308e2-793d-11ec-a0fd-55fdfbe7b456" type="resource" guid="b45c0fb7-2bf9-11e3-b91d-31693b7e682b" />
+  </predicate>
+  <predicate guid="7499ffb3-7e23-11e1-9553-6fa0c1dd5be4">
+    <object statement-guid="840308e3-793d-11ec-a0fd-55fdfbe7b456" type="resource" guid="840308c7-793d-11ec-a0fd-55fdfbe7b456" />
+  </predicate>
+</resource>
+

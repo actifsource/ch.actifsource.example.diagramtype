@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="78ca4308-793d-11ec-a0fd-55fdfbe7b456">
+  <owns predicate="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <resource statement-guid="f0abd8dc-793e-11ec-a0fd-55fdfbe7b456" type="resource" guid="f0ab3c99-793e-11ec-a0fd-55fdfbe7b456" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="78ca430a-793d-11ec-a0fd-55fdfbe7b456" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="78cb065c-793d-11ec-a0fd-55fdfbe7b456" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+    <object statement-guid="1dcdeaba-793e-11ec-a0fd-55fdfbe7b456" type="resource" guid="d2e41148-feae-11de-b623-05edcc99ed4a" />
+  </predicate>
+  <predicate guid="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f0abd8dc-793e-11ec-a0fd-55fdfbe7b456">
+      <resource guid="f0ab3c99-793e-11ec-a0fd-55fdfbe7b456">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="f0ab8abb-793e-11ec-a0fd-55fdfbe7b456" type="resource" guid="2936588e-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="3262fa9c-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="f409835b-793e-11ec-a0fd-55fdfbe7b456" type="resource" guid="2e10b778-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="f14e0c6c-793e-11ec-a0fd-55fdfbe7b456" type="literal">enable</object>
+        </predicate>
+        <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="f0ac4e0d-793e-11ec-a0fd-55fdfbe7b456" type="resource" guid="ec497724-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="78cab83b-793d-11ec-a0fd-55fdfbe7b456" type="literal">Config</object>
+  </predicate>
+</resource>
+

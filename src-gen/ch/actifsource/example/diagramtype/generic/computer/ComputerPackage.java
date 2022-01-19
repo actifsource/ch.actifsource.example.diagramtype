@@ -23,6 +23,9 @@ public class ComputerPackage {
   public static final Resource Table_offset = new Resource("b6599f51-990e-11ea-8568-8df113ebd62f");
   public static final Resource System_table = new Resource("26eae9e6-990f-11ea-8568-8df113ebd62f");
   public static final Resource Computer_table = new Resource("68ecb0a3-9910-11ea-8568-8df113ebd62f");
+  public static final Resource System_config = new Resource("6e29ed3f-793d-11ec-a0fd-55fdfbe7b456");
+  public static final Resource Config = new Resource("78ca4308-793d-11ec-a0fd-55fdfbe7b456");
+  public static final Resource Config_enable = new Resource("f0ab3c99-793e-11ec-a0fd-55fdfbe7b456");
   
   /* Begin Protected Region [[user]] */
   
@@ -43,4 +46,4 @@ public class ComputerPackage {
   }
   
 }
-/* Actifsource ID=[c1a07b92-fc09-11e0-b756-0dc1d96a76cb,ch.actifsource.example.diagramtype.generic.computer,A+J8G2eV8Qt/6QfDgqWetKPQvUc=] */
+/* Actifsource ID=[c1a07b92-fc09-11e0-b756-0dc1d96a76cb,ch.actifsource.example.diagramtype.generic.computer,Sw56hAz00OY6ZblIp14FYVZGfPQ=] */
