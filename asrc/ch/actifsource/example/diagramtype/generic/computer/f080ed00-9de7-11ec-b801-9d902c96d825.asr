@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="f080ed00-9de7-11ec-b801-9d902c96d825">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f080ed02-9de7-11ec-b801-9d902c96d825" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="fa08590e-9de7-11ec-b801-9d902c96d825" type="resource" guid="f776d980-9de7-11ec-b801-9d902c96d825" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f0818943-9de7-11ec-b801-9d902c96d825" type="literal">InPort</object>
+  </predicate>
+</resource>
+

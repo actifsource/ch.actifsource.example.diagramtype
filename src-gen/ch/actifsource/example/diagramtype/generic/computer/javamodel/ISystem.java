@@ -18,8 +18,10 @@ public interface ISystem extends ch.actifsource.core.javamodel.INamedResource {
   
   public java.util.List<? extends ch.actifsource.example.diagramtype.generic.computer.javamodel.IConfig> selectConfig();
   
+  public java.util.List<? extends ch.actifsource.example.diagramtype.generic.computer.javamodel.IComponent> selectComponenet();
+  
   public java.util.List<? extends ch.actifsource.diagram.javamodel.IDomainDiagram> selectDiagram();
   
 }
 
-/* Actifsource ID=[3ca9f967-db37-11de-82b8-17be2e034a3b,544bef1f-990c-11ea-8568-8df113ebd62f,jnSdlgkN2VjqmZ3GmynttYcof20=] */
+/* Actifsource ID=[3ca9f967-db37-11de-82b8-17be2e034a3b,544bef1f-990c-11ea-8568-8df113ebd62f,/8sSs22ar3W+yGe/oZagvmUlhLU=] */

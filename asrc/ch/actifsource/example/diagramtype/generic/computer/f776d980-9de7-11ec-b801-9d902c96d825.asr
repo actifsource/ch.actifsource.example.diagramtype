@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="f776d980-9de7-11ec-b801-9d902c96d825">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f776d982-9de7-11ec-b801-9d902c96d825" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f7779cd4-9de7-11ec-b801-9d902c96d825" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f7774eb3-9de7-11ec-b801-9d902c96d825" type="literal">BasePort</object>
+  </predicate>
+  <predicate guid="789d756a-7c6f-11da-8e26-0dc50b1b5a91">
+    <object statement-guid="f777eaf5-9de7-11ec-b801-9d902c96d825" type="resource" guid="789d7568-7c6f-11da-8e26-0dc50b1b5a91" />
+  </predicate>
+  <predicate guid="4403cfc0-5875-11db-b0de-0800200c9a66">
+    <object statement-guid="7a651142-9de8-11ec-b801-9d902c96d825" type="literal">images/icon_interface.png</object>
+  </predicate>
+</resource>
+

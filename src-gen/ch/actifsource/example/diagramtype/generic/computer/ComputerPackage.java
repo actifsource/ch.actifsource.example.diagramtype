@@ -26,6 +26,14 @@ public class ComputerPackage {
   public static final Resource System_config = new Resource("6e29ed3f-793d-11ec-a0fd-55fdfbe7b456");
   public static final Resource Config = new Resource("78ca4308-793d-11ec-a0fd-55fdfbe7b456");
   public static final Resource Config_enable = new Resource("f0ab3c99-793e-11ec-a0fd-55fdfbe7b456");
+  public static final Resource Component = new Resource("4459d714-9de6-11ec-b801-9d902c96d825");
+  public static final Resource System_componenet = new Resource("50532d8a-9de6-11ec-b801-9d902c96d825");
+  public static final Resource Component_subComponenet = new Resource("5edfd8d6-9de6-11ec-b801-9d902c96d825");
+  public static final Resource InPort = new Resource("f080ed00-9de7-11ec-b801-9d902c96d825");
+  public static final Resource BasePort = new Resource("f776d980-9de7-11ec-b801-9d902c96d825");
+  public static final Resource OutPort = new Resource("fecaea6d-9de7-11ec-b801-9d902c96d825");
+  public static final Resource Component_port = new Resource("3f830f90-9de8-11ec-b801-9d902c96d825");
+  public static final Resource OutPort_inPort = new Resource("497dd743-9de8-11ec-b801-9d902c96d825");
   
   /* Begin Protected Region [[user]] */
   
@@ -46,4 +54,4 @@ public class ComputerPackage {
   }
   
 }
-/* Actifsource ID=[c1a07b92-fc09-11e0-b756-0dc1d96a76cb,ch.actifsource.example.diagramtype.generic.computer,Sw56hAz00OY6ZblIp14FYVZGfPQ=] */
+/* Actifsource ID=[c1a07b92-fc09-11e0-b756-0dc1d96a76cb,ch.actifsource.example.diagramtype.generic.computer,tTJEqHNHV3aBJNVWmeDdx2f8nTM=] */

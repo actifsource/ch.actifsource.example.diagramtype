@@ -42,6 +42,16 @@ public class System extends DynamicResource implements ISystem {
   // relations
   
   @Override
+  public java.util.List<? extends ch.actifsource.example.diagramtype.generic.computer.javamodel.IComponent> selectComponenet() {
+    return _getList(ch.actifsource.example.diagramtype.generic.computer.javamodel.IComponent.class, ch.actifsource.example.diagramtype.generic.computer.ComputerPackage.System_componenet);
+  }
+
+  public System setComponenet(java.util.List<? extends ch.actifsource.example.diagramtype.generic.computer.javamodel.IComponent> componenet) {
+    _setList(ch.actifsource.example.diagramtype.generic.computer.ComputerPackage.System_componenet, componenet);
+    return this;
+  }
+    
+  @Override
   public java.util.List<? extends ch.actifsource.example.diagramtype.generic.computer.javamodel.IComputer> selectComputer() {
     return _getList(ch.actifsource.example.diagramtype.generic.computer.javamodel.IComputer.class, ch.actifsource.example.diagramtype.generic.computer.ComputerPackage.System_computer);
   }
@@ -117,6 +127,7 @@ public class System extends DynamicResource implements ISystem {
     // attributes
     _acceptSingleAttribute(java.lang.String.class, ch.actifsource.core.CorePackage.NamedResource_name, visitor);
     // relations
+    _acceptList(ch.actifsource.example.diagramtype.generic.computer.javamodel.IComponent.class, ch.actifsource.example.diagramtype.generic.computer.ComputerPackage.System_componenet, visitor);
     _acceptList(ch.actifsource.example.diagramtype.generic.computer.javamodel.IComputer.class, ch.actifsource.example.diagramtype.generic.computer.ComputerPackage.System_computer, visitor);
     _acceptList(ch.actifsource.example.diagramtype.generic.computer.javamodel.IConfig.class, ch.actifsource.example.diagramtype.generic.computer.ComputerPackage.System_config, visitor);
     _acceptList(ch.actifsource.diagram.javamodel.IDomainDiagram.class, ch.actifsource.example.diagramtype.generic.computer.ComputerPackage.System_diagram, visitor);
@@ -148,9 +159,13 @@ public class System extends DynamicResource implements ISystem {
     return _getToMeSingle(object.getRepository(), ch.actifsource.example.diagramtype.generic.computer.javamodel.ISystem.class, ch.actifsource.example.diagramtype.generic.computer.ComputerPackage.System_config, object.getResource());
   }
   
+  public static ch.actifsource.example.diagramtype.generic.computer.javamodel.ISystem selectToMeComponenet(ch.actifsource.example.diagramtype.generic.computer.javamodel.IComponent object) {
+    return _getToMeSingle(object.getRepository(), ch.actifsource.example.diagramtype.generic.computer.javamodel.ISystem.class, ch.actifsource.example.diagramtype.generic.computer.ComputerPackage.System_componenet, object.getResource());
+  }
+  
   public static ch.actifsource.example.diagramtype.generic.computer.javamodel.ISystem selectToMeDiagram(ch.actifsource.diagram.javamodel.IDomainDiagram object) {
     return _getToMeSingle(object.getRepository(), ch.actifsource.example.diagramtype.generic.computer.javamodel.ISystem.class, ch.actifsource.example.diagramtype.generic.computer.ComputerPackage.System_diagram, object.getResource());
   }
   
 }
-/* Actifsource ID=[4d723cb5-db37-11de-82b8-17be2e034a3b,544bef1f-990c-11ea-8568-8df113ebd62f,BAjJRR77FWXEX7xmcOBYFk2pVMg=] */
+/* Actifsource ID=[4d723cb5-db37-11de-82b8-17be2e034a3b,544bef1f-990c-11ea-8568-8df113ebd62f,ZBTdeZeSGLI9lgLc1sxETPHg5NE=] */
