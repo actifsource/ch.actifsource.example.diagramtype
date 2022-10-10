@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="6d744616-489f-11ed-a2ed-3b1df8d23de0">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="6d744617-489f-11ed-a2ed-3b1df8d23de0" type="resource" guid="b8a72810-37ee-11ed-bb3a-a9cc01418098" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="6d744618-489f-11ed-a2ed-3b1df8d23de0" type="literal">NetworkRelationGroup</object>
+  </predicate>
+</resource>
+
