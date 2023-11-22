@@ -6,5 +6,11 @@
   <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
     <object statement-guid="108a409e-489b-11ed-a2ed-3b1df8d23de0" type="literal">NetworkGroup</object>
   </predicate>
+  <predicate guid="aa7f30ea-09ef-11ee-b5cc-cb0dae5b52ad">
+    <object statement-guid="a6a8db57-8910-11ee-8c45-e1520b23bcaf" type="resource" guid="7b3b46a8-09ef-11ee-b5cc-cb0dae5b52ad" />
+  </predicate>
+  <predicate guid="633d29b4-0e71-11ee-9e20-91e951760156">
+    <object statement-guid="f1121520-8910-11ee-8c45-e1520b23bcaf" type="literal">true</object>
+  </predicate>
 </resource>
 

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="9fe298ae-8915-11ee-8c45-e1520b23bcaf">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="9fe298b0-8915-11ee-8c45-e1520b23bcaf" type="resource" guid="18b0055b-ad93-11de-8a95-a3426dd7e181" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="9fe334f1-8915-11ee-8c45-e1520b23bcaf" type="literal">CustomLineColor</object>
+  </predicate>
+  <predicate guid="1b481561-ad93-11de-8a95-a3426dd7e181">
+    <object statement-guid="b30cc189-8915-11ee-8c45-e1520b23bcaf" type="literal">234</object>
+  </predicate>
+  <predicate guid="235d2ce9-ad93-11de-8a95-a3426dd7e181">
+    <object statement-guid="b4233a9a-8915-11ee-8c45-e1520b23bcaf" type="literal">88</object>
+  </predicate>
+  <predicate guid="27941fe0-ad93-11de-8a95-a3426dd7e181">
+    <object statement-guid="b53b133b-8915-11ee-8c45-e1520b23bcaf" type="literal">00</object>
+  </predicate>
+  <predicate guid="38286fb1-3ac0-11ee-a62b-392d01f330e7">
+    <object statement-guid="9fe35c02-8915-11ee-8c45-e1520b23bcaf" type="literal">true</object>
+  </predicate>
+</resource>
+
