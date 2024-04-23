@@ -2839,7 +2839,7 @@
                                   <object statement-guid="544bf0e0-990c-11ea-8568-8df113ebd62f" type="resource" guid="9f25a99e-c947-11de-95d0-4912b8dc029a" />
                                 </predicate>
                                 <predicate guid="527cc4e8-d2ac-11de-87dc-a9aeefa4174b">
-                                  <object statement-guid="544bf0e1-990c-11ea-8568-8df113ebd62f" type="literal">&lt;svg width="1000" height="1000" viewBox="0 0 1000 1000"&gt;</object>
+                                  <object statement-guid="544bf0e1-990c-11ea-8568-8df113ebd62f" type="literal">&lt;svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000"&gt;</object>
                                 </predicate>
                               </resource>
                             </object>

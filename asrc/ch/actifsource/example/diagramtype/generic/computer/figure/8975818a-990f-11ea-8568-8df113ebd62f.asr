@@ -44,7 +44,7 @@
           </object>
         </predicate>
         <predicate guid="2729d87a-1588-11e9-8aea-d3b190d231c6">
-          <object statement-guid="9bf2539d-990f-11ea-8568-8df113ebd62f" type="literal">images/computer.png</object>
+          <object statement-guid="9bf2539d-990f-11ea-8568-8df113ebd62f" type="literal">images/computer.svg</object>
         </predicate>
         <predicate guid="67024bfa-15ad-11e9-8aea-d3b190d231c6">
           <object statement-guid="8975819d-990f-11ea-8568-8df113ebd62f">
@@ -74,7 +74,7 @@
           <object statement-guid="8975819f-990f-11ea-8568-8df113ebd62f" type="literal">false</object>
         </predicate>
         <predicate guid="8c84d8cb-dde0-11e9-8113-099759892042">
-          <object statement-guid="897581a0-990f-11ea-8568-8df113ebd62f" type="resource" guid="ea4e5c34-dddf-11e9-8113-099759892042" />
+          <object statement-guid="897581a0-990f-11ea-8568-8df113ebd62f" type="resource" guid="6cdce766-dde0-11e9-8113-099759892042" />
         </predicate>
       </resource>
     </object>
